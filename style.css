@@ -1,0 +1,44 @@
+body {
+	background-color: #ffcc66;
+}
+
+h1 {
+	color: black;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bolder;
+	text-align: center;
+}
+
+p {
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+}
+
+ul {
+	background-color: #ffcc66;
+	list-style-type: upper-roman;
+}
+
+span {
+	border: thick;
+	padding: 0;
+	margin: 0;
+}
+
+
+.atllink {
+	text-decoration: line-through;
+}
+
+.ctolink {
+	text-decoration: blink;
+}
+
+.chslink {
+	text-decoration-color: red;
+}
+
+.atlimg3 {
+	height: 200px;
+	width: 300px;
+}
