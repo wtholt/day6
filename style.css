@@ -21,7 +21,8 @@ ul {
 
 img {
 	border: thick;
-	align-content: center;
+	color: red;
+	/*float: right;*/
 }
 
 
